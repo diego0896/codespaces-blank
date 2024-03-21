@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Blinker:wght@100;200;300;400;600;700;800;900&display=swap');
+
+h1{font-family: "Blinker", sans-serif;}
+
+p{font-family: 'Roboto Slab', serif;
+}
+
+img{
+border: 5px solid;
+margin: 5px;
+;
+}
+
+
+
+.button{margin-top: 20px;
+  text-align: center;}
+
+body{background-color: white;}
+
+.goku{display: none;}
+
+.bulma{display: none;}
+
+.vegeta{display: none;}
+
+.beeruss{display: none;}
+
+.message{ font-size: 25px;}
+
+input{ 
+    border-radius: 20px;
+    text-align: center;
+    width: 100%;
+}
